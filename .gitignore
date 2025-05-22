@@ -9,8 +9,6 @@ lerna-debug.log*
 
 node_modules
 dist
-react-agent
-portalv2
 dist-ssr
 *.local
 
